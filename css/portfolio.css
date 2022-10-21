@@ -1,0 +1,230 @@
+/*gaps*/
+
+.gap1{
+    gap: 5em;
+}
+.gap2{
+    gap: 5em;
+}   
+
+
+/* general font*/
+h1{
+    font-family: 'ONE DAY';
+    font-style: normal;
+    color: white;
+}
+
+h2 span {
+    font-weight: 600;
+}
+
+h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    color: white;
+}
+
+h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
+
+a{
+    font-style: normal;
+    text-decoration: none;
+}
+
+p{
+    font-family: "Roboto";
+    font-size: 23px;
+
+    color: #FFFFFF;
+}
+
+
+/* nothing go to section*/
+
+.nothing-icon{
+    color: white;
+    font-size: 50px;
+    margin-left: 21vw;
+}
+
+.nothing-go-to{
+    height: 51vh;
+    width: 26vw;
+
+    border-radius: 50%;
+    margin-left: -16vw;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+
+    position: fixed;
+
+    right: 91vw;
+
+    transition: 500ms;
+
+}
+
+.nothing-go-to:hover{
+    height: 58vh;
+    width: 28vw;
+    transition: 500ms;
+    right: 89vw;
+}
+
+
+/* Home go to section*/
+
+.home-icon{
+    color: white;
+    font-size: 50px;
+    margin-left: 1.8vw;
+}
+
+.home-go-to{
+    height: 51vh;
+    width: 26vw;
+
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    
+    position: fixed;
+
+    left: 91vw;
+    top: 25%;
+
+    transition: 500ms;
+}
+
+.home-go-to:hover{
+    height: 58vh;
+    width: 28vw;
+    transition: 500ms;
+    left: 89vw;
+}
+
+
+.imgMyself img{
+    width: 585px;
+    height: 847.14px;
+}
+
+.imgMyself{
+    margin-top: 10em;
+}
+
+/*font styling "info"*/
+
+.info{
+    width: 32vw;
+}
+
+.info h1{
+    font-size: 48px;
+
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.info hr{
+    width: 71px;
+    border: 6px solid #FFFFFF;
+
+    margin-bottom: 3vh;
+}
+
+/* second section styling*/
+
+.convertParagraph{
+    width: 35vw;
+    height: auto;
+
+}
+
+.desktop-icon{
+    color: white;
+    font-size: 72px;
+}
+
+.firstP{
+    margin-bottom: 2.5vh;
+    line-height: 1.8em;
+}
+
+.secondP{
+    margin-top: 6.5vh;
+    line-height: 1.8em;
+}
+
+/*Parte dell'elenco*/
+
+.iconText{
+    gap: 3em
+}
+
+.iconText h3{
+    font-size: 23px;
+}
+
+/*elenco*/
+
+.elementoElenco{
+    margin-top: 2em;
+    margin-bottom: 0.2em;
+}
+
+.ellipse-icon{
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.elencoP{
+    margin-left: 1em;
+}
+
+/*Left part*/
+
+.CatchPhrase{
+    width: 35vw;
+}
+
+.CatchPhrase h1{
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.CatchPhrase h1 span{
+    font-weight: 500;
+}
+
+.CatchPhrase hr{
+    width: 71px;
+    margin-left: 2.5em;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+
+    border: 6px solid #FFFFFF;
+}
+
+.CatchPhrase h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.CatchPhrase h2 span{
+    font-style: italic;
+    font-weight: 400;
+}
