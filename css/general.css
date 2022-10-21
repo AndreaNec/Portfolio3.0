@@ -8,6 +8,10 @@ html{
     display: block;
 }
 
+@font-face {
+    font-family: 'ONE DAY';
+    src: url("/font/ONEDAY.otf") format("opentype");
+}
 
 
 section{

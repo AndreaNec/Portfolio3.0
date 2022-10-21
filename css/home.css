@@ -65,15 +65,15 @@ a{
 }
 
 .circle1{
-    height: 47vh;
-    width: 24vw;
+    height: 30em;
+    width: 30em;
 
     border: 8px solid #FFFFFF;
 }
 
 .circle2{
-    height: 42vh;
-    width: 21vw;
+    height: 26em;
+    width: 26em;
 
     border: 5px solid #FFFFFF;
 }
